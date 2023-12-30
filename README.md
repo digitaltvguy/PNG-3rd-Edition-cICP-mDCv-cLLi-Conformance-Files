@@ -3,7 +3,7 @@
 ### GOALS - Determine support in applications and operating system API's
 <br/>
 
-#### Respository Folders and Files - Video Color Bars:<br/>
+#### Repository Folders and Files - Video Color Bars:<br/>
            1. no PNG cicp chunk: Original PNG's without new 3rd Edition Chunks<br/>
                 * Original files without new chunks
            2. PNG chunk files for hex editor: Hex Chunk codes for insertion into PNG files using PNG chunk editor<br/>
