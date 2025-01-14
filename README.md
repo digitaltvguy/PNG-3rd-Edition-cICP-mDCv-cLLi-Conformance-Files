@@ -1,18 +1,12 @@
-## PNG 3rd Edition Release Candidate Example Files with cICP, mDCv, cLLi chunks<br/>
+## PNG, TIFF, MOV, MXF with CICP, MDCV, CLLI Conformance Files<br/>
 ---
-### GOALS - Determine support in applications and operating system API's
+### GOALS - Determine support for CICP, MDCV, CLLI in applications and operating system API's
 <br/>
 
 #### Repository Folders and Files - Video Color Bars:<br/>
-           1. no PNG cicp chunk: Original PNG's without new 3rd Edition Chunks<br/>
-                * Original files without new chunks
-           2. PNG chunk files for hex editor: Hex Chunk codes for insertion into PNG files using PNG chunk editor<br/>
-                * cICP Chunk Files
-                * cLLi Chunk Files
-                * mDCv Chunk Files
-           3. PNG with cICP mDCv cLLi Chunk: PNG files with new cICP mDCv cLLi chunks inserted <br/>
-                * Files with new cICP, mDCv, cLLi chunks
-           3. QuickTime Color Bars for comparisons: Video wrapper with cICP mDCv cLLi atoms which match similar PNG elements<br/>
-                * Example files with the most common video formats (SDR, PQ, HLG)
+           1. PNG Files with cICP, mDCV, cLLI Chunks<br/>
+           2. TIFF ICC Profiles with CICP Tags<br/>
+           3. QuickTime MOV with NCLC(CICP) Tags<br/>
+           3. MXF Files with Picture Essence Descriptors that mimic CICP values
            
 <br/>
