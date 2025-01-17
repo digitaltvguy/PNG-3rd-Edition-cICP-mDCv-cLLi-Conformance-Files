@@ -1,6 +1,7 @@
 ## PNG, TIFF, MOV, MXF with CICP, MDCV, CLLI Conformance Files<br/>
 ---
 ### GOALS - Conformance Test Files for specific Video Workflow Testing
+### cICP allows correct identification from H.273 (not sRGB by default)
 ### Determine correct detection of cICP, mDCV, cLLI in applications and operating system API's
 ### Verify that explicit values for color primaries and transfer functions are used
 ### Verify that explicit values from cICP are used for objective remapping from input to display
