@@ -1,6 +1,10 @@
 ## PNG, TIFF, MOV, MXF with CICP, MDCV, CLLI Conformance Files<br/>
 ---
-### GOALS - Determine support for CICP, MDCV, CLLI in applications and operating system API's
+### GOALS - Conformance Test Files for specific Video Workflow Testing
+### Determine correct detection of cICP, mDCV, cLLI in applications and operating system API's
+### Verify that explicit values for color primaries and transfer functions are used
+### Verify that explicit values from cICP are used for objective remapping from input to display
+### and mDCV, cLLI values are used for tone mapping to final consumer display (if appplicable)
 <br/>
 
 #### Repository Folders and Files - Video Color Bars:<br/>
